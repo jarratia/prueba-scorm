@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5vODISGLZkO_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Glosario U1</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Glosario_U1_ORG">
+    <organization identifier="Glosario_U1_ORG">
+      <title>Glosario U1</title>
+      <item identifier="Glosario_U1_SCO" isvisible="true" identifierref="__5vODISGLZkO_course_id_RES">
+        <title>Glosario U1</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5vODISGLZkO_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6V4roThsL0Y_80_DX1440_DY1440_CX960_CY540.jpg" />
+      <file href="mobile/6q3wDrIeISR_80_DX1440_DY1440_CX960_CY540.png" />
+      <file href="mobile/6Attz7M7v2M_80_DX1248_DY1248_CX810_CY360.png" />
+      <file href="mobile/5uDJiBWfJ2d_80_DX396_DY396_CX150_CY1.png" />
+      <file href="mobile/601Y4fK1RRD_80_DX70_DY70_CX52_CY52.png" />
+      <file href="mobile/6bq8NvQvLlT_80_DX1248_DY1248_CX879_CY384.png" />
+      <file href="mobile/6TbhmuFn4RH_80_DX312_DY312_CX234_CY234.png" />
+      <file href="mobile/5ubouKm1wKu_80_DX408_DY408_CX6_CY306.png" />
+      <file href="mobile/6Attz7M7v2M_80_DX1248_DY1248_CX864_CY384.png" />
+      <file href="mobile/5nbhUGCyGIo_80_DX1440_DY1440_CX1080_CY607.png" />
+      <file href="mobile/6TbniocFNJT_80_DX1254_DY1254_CX940_CY384.png" />
+      <file href="mobile/60hfmGElJMk_80_DX1440_DY1440_CX1080_CY608.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5omV4XSsmAW.js" />
+      <file href="html5/data/js/5qOqWQrcb91.js" />
+      <file href="html5/data/js/5xvy61qqt5J.js" />
+      <file href="html5/data/js/69qzX7m99gI.js" />
+      <file href="html5/data/js/6AuBXlbiRsT.js" />
+      <file href="html5/data/js/6GnFW0VjBtb.js" />
+      <file href="html5/data/js/6Mlf2nXQzdO.js" />
+      <file href="html5/data/js/6QXNwNi1UgJ.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
